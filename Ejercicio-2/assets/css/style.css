@@ -1,0 +1,9 @@
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    /*text-align:center; */
+    justify-content:space-between;
+}
+img{
+    width: 300px;
+}
